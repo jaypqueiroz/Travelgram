@@ -125,3 +125,50 @@ header>nav {
     line-height: 170%;
 }
 
+#content{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    padding: 24px 32px;
+    justify-content: space-between;
+}
+
+#content > img{
+    width: 350px;
+    height: 300;
+    object-fit: cover;
+}
+
+footer{
+    height: 72px;
+    padding: 24px 32px;
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--surface-color);
+}
+
+footer > p{
+    color: var(--text-color-secundary);
+    width: 134px;
+    height: 21px;
+    font-size: 14px;
+    line-height: 150%;
+}
+
+.terms > button{
+    color: var(--text-color-secundary);
+}
+
+.terms{
+    width: 297px;
+    height: 24px;
+    display: flex;
+    gap: 16px;
+    justify-content: space-between;
+}
+
+.terms > button > p{
+    font-size: 14px;
+    line-height: 150%;
+
+}
