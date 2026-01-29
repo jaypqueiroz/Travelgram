@@ -1,3 +1,7 @@
-Projeto feito como forma de estudo pela plataforma Rocketseat. Com o intuito de aprimorar as minhas habilidades com CSS, HTML e leitura de FIGMA. Tomei algumas liberdades de mudar algumas configurações do Figma como forma de curiosidade e gosto pessoal.
+Projeto feito como forma de estudo pela plataforma Rocketseat. Com o intuito de aprimorar as minhas habilidades com CSS, HTML e leitura de FIGMA. Tomei algumas liberdades de mudar algumas configurações do Figma como forma de curiosidade e gosto pessoal. 
 
 This project was created as a study exercise using the Rocketseat platform. Its purpose was to improve my skills in CSS, HTML, and Figma reading. I took some liberties in changing some Figma settings out of curiosity and personal preference.
+
+
+https://www.figma.com/design/lJjnrEnEDsOTBQ9HnAnbX8/Perfil-de-viagens--Community-?node-id=0-1&t=yypf1DFZkOwGGqFU-1
+<img width="885" height="496" alt="image" src="https://github.com/user-attachments/assets/1bdf68bf-51a3-44d3-9e67-6e15e176ddd6" />
